@@ -1,2 +1,2 @@
 Git tracks changes of files.
-you hello
+Creating a new branch is quick.
